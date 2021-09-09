@@ -1,5 +1,5 @@
-### Hi there 👋
+### Olá! Sou o Manuel Dias
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning TypeScript and React
+- 🔭 Trabalho com Front-End
+- 🌱 Estou a aprender TypeScript e React
 - 😄 Pronouns: ele/dele

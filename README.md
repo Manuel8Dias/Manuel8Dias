@@ -12,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel8dias&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-<hr>
+<hr style="opacity: 0.2" />
 
 <div style="display: inline_block">
     <br>
@@ -32,4 +32,4 @@
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-<hr style="opacity: 0.2">
+<hr style="opacity: 0.2" />

@@ -4,15 +4,18 @@
 - ⚙️ Conhecimentos em edição de imagem e video
 - 🌱 Estou a aprender React
 - 😄 Pronouns: ele/dele
-
+<br />
+<hr>
 <br />
 
 <div>
-  <a href="https://github.com/Manuel8Dias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuel8dias&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel8dias&layout=compact&langs_count=7&theme=gotham"/>
+    <a href="https://github.com/Manuel8Dias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuel8dias&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel8dias&layout=compact&langs_count=7&theme=gotham"/>
 </div>
- ##
+
+<hr>
+
 <div style="display: inline_block">
     <br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +24,6 @@
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
 </div>
 
 <div style="display: inline_block">
@@ -31,3 +33,5 @@
     <img align="center" alt="Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
+<hr>

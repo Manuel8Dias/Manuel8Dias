@@ -42,7 +42,6 @@
 </div>
 
 <div>
-<hr style="opacity: 0.2" />
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>

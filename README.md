@@ -4,7 +4,6 @@
 - ⚙️ Conhecimentos em edição de imagem e video
 - 🌱 Estou a aprender React
 - 😄 Pronouns: ele/dele
-<br />
 <hr>
 <br />
 

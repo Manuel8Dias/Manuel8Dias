@@ -43,6 +43,4 @@
 
 <hr style="opacity: 0.2" />
 
-<div>
-    ![Snake animation](https://github.com/https://github.com/Manuel8Dias/https://github.com/Manuel8Dias/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/https://github.com/Manuel8Dias/https://github.com/Manuel8Dias/blob/output/github-contribution-grid-snake.svg)

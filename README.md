@@ -5,7 +5,6 @@
 - 🌱 Estou a aprender React
 - 😄 Pronouns: ele/dele
 <hr>
-<br />
 
 <div>
     <a href="https://github.com/Manuel8Dias">

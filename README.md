@@ -39,8 +39,11 @@
     <a href="https://www.linkedin.com/in/manueldias3d" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/manueldias.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23e95950?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/manueldias3d" target="_blank"><img src="https://img.shields.io/badge/-twitter-%231da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <hr style="opacity: 0.2" />
 
-![Snake animation](https://github.com/https://github.com/Manuel8Dias/https://github.com/Manuel8Dias/blob/output/github-contribution-grid-snake.svg)
+
